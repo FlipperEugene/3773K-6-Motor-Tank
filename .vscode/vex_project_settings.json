@@ -1,0 +1,18 @@
+{
+	"extension": {
+		"version": "0.5.0",
+		"json": 2
+	},
+	"project": {
+		"name": "Tank_Bot",
+		"description": "This is the 2023-2024 6 Motor tank code",
+		"creationDate": "11/16/2023, 12:06:47 PM",
+		"platform": "V5",
+		"language": "python",
+		"slot": 1,
+		"sdkVersion": "V5_1_0_1_15",
+		"python": {
+			"main": "src/main.py"
+		}
+	}
+}
